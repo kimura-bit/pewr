@@ -110,12 +110,6 @@
   resolved "https://registry.npmjs.org/@splidejs/splide/-/splide-4.1.4.tgz"
   integrity sha512-5I30evTJcAJQXt6vJ26g2xEkG+l1nXcpEw4xpKh0/FWQ8ozmAeTbtniVtVmz2sH1Es3vgfC4SS8B2X4o5JMptA==
 
-"@types/jquery@^3.5.13":
-  version "3.5.13"
-  resolved "https://registry.npmjs.org/@types/jquery/-/jquery-3.5.13.tgz"
-  integrity sha512-ZxJrup8nz/ZxcU0vantG+TPdboMhB24jad2uSap50zE7Q9rUeYlCF25kFMSmHR33qoeOgqcdHEp3roaookC0Sg==
-  dependencies:
-    "@types/sizzle" "*"
 
 "@types/json-schema@^7.0.9":
   version "7.0.9"
